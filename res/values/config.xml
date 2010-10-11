@@ -38,7 +38,7 @@
     <bool name="config_hideStatusbar">false</bool>
     <bool name="config_previewsNew">true</bool>
     <bool name="config_previewsFullScreen">true</bool>
-    <bool name="config_uiDots">true</bool>
+    <bool name="config_uiDots">false</bool>
     <bool name="config_uiDockbar">true</bool>
     <bool name="config_uiCloseDockbar">false</bool>
     <bool name="config_uiCloseFolder">false</bool>
@@ -51,21 +51,21 @@
     <integer name="config_zoomSpeed">400</integer>
     <!-- config_uiScaleAB is a float value between 0.1 and 0.8. Set here the default .X-->
     <integer name="config_uiScaleAB">6</integer>
-    <bool name="config_uiHideLabels">false</bool>
+    <bool name="config_uiHideLabels">true</bool>
     <bool name="config_wallpaperHack">true</bool>
     <integer name="config_highlights_color">0xffff6600</integer>
     <integer name="config_highlights_color_focus">0xffff3300</integer>
     <bool name="config_new_selectors">true</bool>
     <integer name="config_drawer_color">0xFF000000</integer>
     <!-- config_desktopColumns/Rows min value is 3, so it will add 3 to whatever value you set here -->
-    <integer name="config_desktopColumns">1</integer>
-    <integer name="config_desktopRows">1</integer>
-    <bool name="config_uiAB2">false</bool>
+    <integer name="config_desktopColumns">2</integer>
+    <integer name="config_desktopRows">3</integer>
+    <bool name="config_uiAB2">true</bool>
     <bool name="config_autosizeIcons">false</bool>
     <bool name="config_uiScrollableWidgets">true</bool>
     <bool name="config_drawerLabels">true</bool>
     <bool name="config_fadeDrawerLabels">false</bool>
-    <bool name="config_desktop_indicator">true</bool>
+    <bool name="config_desktop_indicator">false</bool>
     <bool name="config_desktop_indicator_autohide">true</bool>
     <!-- 1=top dots, 2=top slider, 3=bottom slider -->
     <string name="config_desktop_indicator_type">1</string>
